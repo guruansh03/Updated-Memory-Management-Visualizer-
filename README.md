@@ -1,4 +1,4 @@
-#Updated Memory Management Visualizer 
+# Updated Memory Management Visualizer 
 
 A Python-based visual simulator for memory management techniques in operating systems, including Paging, Segmentation, and Virtual Memory. This project provides a graphical interface to visualize memory allocation, page faults, swap operations, and segment allocation using FIFO (First-In, First-Out) and LRU (Least Recently Used) replacement algorithms. It uses a client-server architecture with a Flask backend (`main.py`) and a Pygame frontend (`project.py`).
 
